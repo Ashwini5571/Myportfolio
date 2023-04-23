@@ -1,0 +1,97 @@
+
+
+
+*{
+    background-color: black;
+}
+
+/* navigation bar */
+.nav{
+    background-color: black;
+}
+.d1{
+    position:absolute;
+    margin-bottom: 400px;
+    margin-left: 450px;
+}
+
+/* AboutMe */
+
+.p1{
+    font-size: 50px;
+    color: white;
+}
+.p3{
+    color: rgb(161, 159, 159);
+}
+.logo{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+/* MyService */
+.T1{
+    margin-top: 130px;
+}
+
+.P1{
+    margin-right: 900px;
+   color:white;
+}
+.P2{
+   font-size:43px;
+   margin-right: 900px;
+   color: white;
+}
+
+.Icon1{
+   font-size:50px;
+   color:rgb(17, 195, 100);
+ 
+}
+.card-body{
+  height: 35vh;
+}
+.card-body:hover{
+   border-bottom:3px solid green;
+}
+
+/* Testimonials */
+.Image{
+    font-size: 20px;
+}
+
+.Cardtest{
+    width:70rem;
+}
+.card-body1{
+    height: 35vh;
+  }
+
+/* Plan */
+
+.P11{
+    margin-right: 900px;
+   color:white;
+}
+.P21{
+   font-size:43px;
+   margin-right: 840px;
+   color: white;
+}
+.c1{
+    font-family:serif;
+}
+.card1{
+    height: 140rem;
+    width: 10px;
+    border: 1px solid red;
+}
+.Icon2{
+    font-size:50px;
+    color:rgb(17, 195, 100);
+    margin-left: 10px;
+}
+
+
+

@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+
+/* Education */
+
+.p1{
+    font-size: 50px;
+    color: white;
+}
+.p3{
+    color: rgb(161, 159, 159);
+}
+h2{
+    margin-right: 480px;
+}
+.bord{
+    border-left: 2px solid rgb(31, 138, 31);
+}
+p{
+    margin-left: 40px;
+}
+
+
+/* Skills */
+
+.P11{
+    margin-right: 900px;
+   color:white;
+}
+.P21{
+   font-size:43px;
+   margin-right: 840px;
+   color: white;
+}
+.T1{
+    margin-top: 130px;
+}

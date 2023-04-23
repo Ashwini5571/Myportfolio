@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+}
+.p1{
+    font-size: 50px;
+    color: white;
+}
+.card1{
+    height: 50vh;
+    width:25rem;
+}
+.card-body{
+    width:20rem
+}
+.text{
+    
+    font-size: 15px;
+}
+.fs{
+    font-size: 19px;
+}

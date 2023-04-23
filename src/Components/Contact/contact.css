@@ -1,0 +1,30 @@
+*{
+    background-color: black;
+}
+
+.p1{
+    font-size: 50px;
+    color: white;
+}
+input{
+    width:290px;
+    height: 6vh;
+    border: 1px solid rgb(23, 21, 21);
+    background-color: rgb(23, 21, 21);
+}
+.input1{
+    width:630px;
+}
+textarea{
+    width: 630px;
+    height: 20vh;
+    border: 1px solid rgb(23, 21, 21);
+    background-color: rgb(23, 21, 21);
+}
+.f1{
+    color: rgb(145, 144, 144);
+}
+.Icon{
+    font-size:38px;
+    color:rgb(44, 135, 85);
+}
