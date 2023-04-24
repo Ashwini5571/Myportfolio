@@ -29,7 +29,7 @@ import person2 from '../Image/Person2.jpg';
                     </div>
                 </div> 
 
-                <div class="col-md-1"></div>
+                {/* <div class="col-md-1"></div> */}
                 <div class="col-md-5">
                 
                 <div class="card-header " >
@@ -38,14 +38,14 @@ import person2 from '../Image/Person2.jpg';
                         <img src={person2} height="60px" width="60px" class="rounded-5" />
                         </div>
                         <div class="col-md-5">
-                    <span class="card-text text-light fs-4 mt-4" ><b> Meria wilson</b>
+                    <span class="card-text1 text-light fs-4 mt-4" ><b> Meria wilson</b>
                     <p class="card-text fs-6 text-secondary" ><b> Envato Customer</b> </p></span>
                     <br/>
                     </div>
                     </div>
                     </div>
                     <div class="card-body1">
-                        <p class="text-secondary fs-6"><b>Emma did an excellent creative job, addressing our request quikly, and also providing her own graphic insight, being open to feedback and changes or edits when they arose. She worked with us the entire way. Highly recommended.</b></p>
+                        <p class="text-secondary  text-lift fs-6"><b>Emma did an excellent creative job, addressing our request quikly, and also providing her own graphic insight, being open to feedback and changes or edits when they arose. She worked with us the entire way. Highly recommended.</b></p>
                         <p></p>
                     </div>
                 </div> 

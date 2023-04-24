@@ -12,7 +12,7 @@ export function MyPlan(){
                 <div class="col-md-3 Card1" >
                 
                     <div class="card-body1 " >
-                    <FaEgg class="Icon2"></FaEgg>
+                    <FaEgg class="Icon2 "></FaEgg>
                     <p class="card-text text-light fs-2 mt-4" ><b>Standard</b></p>
                     <h3 class="card-title text-light c1">$10/ <span class="text-light">month</span></h3><br/>
                     <p class="card-text text-secondary para" ><b>Mobile App Design <br/><br/>Responsive Design <br/><br/>Database Development <br/><br/>Web Design <br/><br/>24/7 Support </b></p>

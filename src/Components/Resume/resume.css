@@ -36,3 +36,21 @@ p{
 .T1{
     margin-top: 130px;
 }
+.Html{
+    width:400px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: green;
+    margin-bottom: 10px;
+    width:20%;
+}
+.css{
+    margin-left: 9px;
+}
+.progress{
+    width: 500px;
+   
+}
+.w3{
+    color: green;
+}

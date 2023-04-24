@@ -15,7 +15,7 @@ export function Myservice(){
                 <div class="col-md-1"></div>
                 <div class="col-md-3">
                 
-                    <div class="card-body " >
+                    <div class="card-body C1" >
                     <FaCss3Alt class="Icon1" ></FaCss3Alt>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Design Trends</b></p>
                     <p class="card-text text-light" align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
@@ -25,7 +25,7 @@ export function Myservice(){
                 <div class="col-md-1"></div>
                 <div class="col-md-3">
                 
-                    <div class="card-body ">
+                    <div class="card-body C1">
                     <FaImages class="Icon1"></FaImages>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>PSD Design</b></p>
                     <p class="card-text text-light" align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
@@ -35,7 +35,7 @@ export function Myservice(){
                 <div class="col-md-1"></div>
                 <div class="col-md-3">
                 
-                    <div class="card-body">
+                    <div class="card-body C1">
                     <FaBullseye class="Icon1"></FaBullseye>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Customer Support</b></p>
                     <p class="card-text text-light" align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
@@ -46,7 +46,7 @@ export function Myservice(){
                     <div class="col-md-1"></div>
                     <div class="col-md-3">
 
-                    <div class="card-body">
+                    <div class="card-body C1">
                    <FaWordpressSimple class="Icon1"></FaWordpressSimple>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Web Development</b></p>
                     <p class="card-text text-light" align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
@@ -56,7 +56,7 @@ export function Myservice(){
                     <div class="col-md-1"></div>
                 <div class="col-md-3 ">
                 
-                    <div class="card-body ">
+                    <div class="card-body C1 ">
                     <FaExpandArrowsAlt class="Icon1"></FaExpandArrowsAlt>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Fully Responsive</b></p>
                     <p class="card-text text-light" align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
@@ -66,7 +66,7 @@ export function Myservice(){
                 <div class="col-md-1"></div>
                 <div class="col-md-3">
                 
-                    <div class="card-body">
+                    <div class="card-body C1" >
                         <FaPenNib class="Icon1"></FaPenNib>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Branding</b></p>
                     <p class="card-text text-light" align="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>

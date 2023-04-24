@@ -7,11 +7,10 @@ import { MyPlan } from "./Plan";
 export function Aboutone(){
     return(
         <div>
-            <Aboutme></Aboutme>
+             <Aboutme></Aboutme>
             <Myservice></Myservice>
             <Testimonial></Testimonial>
             <MyPlan></MyPlan>
-            {/* <Nav></Nav> */}
         </div>
     )
 }

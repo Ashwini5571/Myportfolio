@@ -35,7 +35,7 @@
 }
 
 .P1{
-    margin-right: 900px;
+    margin-right: 500px;
    color:white;
 }
 .P2{
@@ -47,12 +47,13 @@
 .Icon1{
    font-size:50px;
    color:rgb(17, 195, 100);
+   margin-left:40px
  
 }
 .card-body{
   height: 35vh;
 }
-.card-body:hover{
+.C1:hover{
    border-bottom:3px solid green;
 }
 
@@ -61,12 +62,13 @@
     font-size: 20px;
 }
 
-.Cardtest{
+.Card-text{
     width:70rem;
 }
 .card-body1{
     height: 35vh;
   }
+
 
 /* Plan */
 
@@ -81,6 +83,7 @@
 }
 .c1{
     font-family:serif;
+    margin-left: 40px;
 }
 .card1{
     height: 140rem;
@@ -90,7 +93,10 @@
 .Icon2{
     font-size:50px;
     color:rgb(17, 195, 100);
-    margin-left: 10px;
+    margin-left: 90px;
+}
+button{
+    margin-left: 40px;   
 }
 
 
