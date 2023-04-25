@@ -24,8 +24,8 @@ export function Myblog(){
               
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light "><b>Top tools for Photographers</b></p>
-                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    <p  class="text-light blog "><b>Top tools for Photographers</b></p>
+                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo<br/> quam, eum alias id, repellendus magni, quas.</p>
                     
                 </div>
 
@@ -36,8 +36,8 @@ export function Myblog(){
                 <img src={Office} height="200px" width="300px"  />
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light "><b>Take a tour of my office</b></p>
-                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    <p  class="text-light blog "><b>Take a tour of my office</b></p>
+                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo<br/> quam, eum alias id, repellendus magni, quas.</p>
                 </div>
 
             </div>
@@ -48,12 +48,12 @@ export function Myblog(){
                 <img src={Designer} height="200px" width="300px"  />
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light "><b>How i became a Web Designer </b></p>
-                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    <p  class="text-light blog"><b>How i became a Web Designer </b></p>
+                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo <br/>quam, eum alias id, repellendus magni, quas.</p>
                 </div>
 
             </div>
-             </div><br/><br/>
+             </div>
 
 
             <div class="row">
@@ -63,8 +63,8 @@ export function Myblog(){
                 <img src={Perform} height="200px" width="300px"  />
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light "><b>How to improve work performance</b></p>
-                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    <p  class="text-light blog"><b>How to improve work performance</b></p>
+                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo<br/> quam, eum alias id, repellendus magni, quas.</p>
                 </div>
 
             </div>
@@ -74,20 +74,20 @@ export function Myblog(){
                 <img src={work} height="200px" width="300px"  />
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light "><b>How to work from home</b></p>
-                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    <p  class="text-light blog "><b>How to work from home</b></p>
+                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo <br/>quam, eum alias id, repellendus magni, quas.</p>
                 </div>
 
             </div>
 
 
-            <div class="col-md-3">
+            <div class="col-md-3 ">
                 <div class="card-header">
                 <img src={Business} height="200px" width="300px"  />
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light "><b>How to enjoy your business trip</b></p>
-                    <p class="text-secondary text text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    <p  class="text-light blog"><b>How to enjoy your business trip</b></p>
+                    <p class="text-secondary text text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo <br/>quam, eum alias id, repellendus magni, quas.</p>
                 </div>
 
             </div>

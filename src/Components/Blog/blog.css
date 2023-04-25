@@ -13,9 +13,12 @@
     width:20rem
 }
 .text{
-    
-    font-size: 15px;
+    margin-left: 1px;
+    font-size: 14px;
 }
 .fs{
     font-size: 19px;
+}
+.blog{
+    margin-left: 1px;
 }
