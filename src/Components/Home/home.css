@@ -1,7 +1,10 @@
 /* navigation bar */
 .nav{
     background-color: black;
+    
 }
+
+
 .d1{
     position:absolute;
     margin-top: 200px;
@@ -61,18 +64,20 @@
 
 /* name */
 
-.name{
+.name2{
     position:absolute;
     top:30%;
     color: white;
     right: 40%;
     font-size: 60px;
+    background:1px solid red;
 }
 .name1{
     position:absolute;
     top:42%;
     color: white;
     left: 38%;
+   background-color: transparent;
 }
 
 

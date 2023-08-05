@@ -28,6 +28,10 @@
     margin-left: 10px;
     font-size: 20px;
 }
+.logo1{
+    margin-left: 10px;
+    font-size: 25px;
+}
 .iam{
     margin-left: 40px;
 }
@@ -56,6 +60,7 @@
 .card-body{
   height: 35vh;
 }
+
 .C1:hover{
    border-bottom:3px solid green;
 }
@@ -78,6 +83,7 @@
 .P11{
     margin-right: 900px;
    color:white;
+  
 }
 .P21{
    font-size:43px;

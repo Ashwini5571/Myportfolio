@@ -13,46 +13,70 @@ export function Skill() {
           <br />
         </div>
       </div>
-      <div class="row">
+      <div class="row mt-4">
         <div class="col-md-1"></div>
         <div class="col-md-5">
           <label class="text-light" for="file">
-            HTMl/CSS /92%
+            HTML - 85%
           </label>
-          <progress id="A1" value="95" max="100" style={{ width: "100%" }}></progress>
+          <progress id="A1" value="85" max="100" style={{ width: "100%" }}></progress>
           <br />
           <br />
           <label class="text-light" for="file">
-            Web Design /80%
+            CSS - 80%
           </label>
           <progress id="A1" value="80" max="100" style={{ width: "100%" }}></progress>
           <br />
           <br />
           <label class="text-light" for="file">
-            Javascript /90%
+            Bootstrap - 70%
           </label>
-          <progress id="A1" value="90" max="100" style={{ width: "100%" }}></progress>
+          <progress id="A1" value="70" max="100" style={{ width: "100%" }}></progress>
+          <br />
+          <br />
+          <label class="text-light" for="file">
+            Javascript - 65%
+          </label>
+          <progress id="A1" value="65" max="100" style={{ width: "100%" }}></progress>
+          <br />
+          <br />
+          <label class="text-light" for="file">
+            Java - 40%
+          </label>
+          <progress id="A1" value="40" max="100" style={{ width: "100%" }}></progress>
           <br />
           <br />
         </div>
 
         <div class="col-md-5">
           <label class="text-light" for="file">
-            React Js /90%
+            React Js - 82%
           </label>
-          <progress id="A1" value="90" max="100" style={{ width: "100%" }}></progress>
+          <progress id="A1" value="82" max="100" style={{ width: "100%" }}></progress>
           <br />
           <br />
           <label class="text-light" for="file">
-            Express Js /95%
+            Express Js - 75%
           </label>
-          <progress id="A1" value="80" max="100" style={{ width: "100%" }}></progress>
+          <progress id="A1" value="75" max="100" style={{ width: "100%" }}></progress>
           <br />
           <br />
           <label class="text-light" for="file">
-            Typescript /80%
+          NodeJs - 60%
           </label>
-          <progress id="A1" value="90" max="100" style={{ width: "100%" }}></progress>
+          <progress id="A1" value="60" max="100" style={{ width: "100%" }}></progress>
+          <br />
+          <br />
+          <label class="text-light" for="file">
+          MongoDB - 60%
+          </label>
+          <progress id="A1" value="60" max="100" style={{ width: "100%" }}></progress>
+          <br />
+          <br />
+          <label class="text-light" for="file">
+          python - 50%
+          </label>
+          <progress id="A1" value="50" max="100" style={{ width: "100%" }}></progress>
           <br />
           <br />
         </div>

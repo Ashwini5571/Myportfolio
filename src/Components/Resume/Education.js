@@ -27,7 +27,7 @@ export function Education() {
             <p class="text-secondary text">
               <b>
                 State Board / 2014 - 2016 <br />
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo repudiandae.
+               Government pre-university college Uppunda
               </b>
             </p>
             <hr class="text-white"></hr>
@@ -35,13 +35,13 @@ export function Education() {
 
           <div class="card-header" align="left">
             <p class="text-light fs-5">
-              <b>Computer Science</b>
+              <b>PCMCs</b>
             </p>
             <p class="text-secondary text">
               <b>
                 {" "}
                 State Board / 2016 - 2018 <br />
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo repudiandae.
+                Government pre-university college Byndoor
               </b>
             </p>
             <hr class="text-white"></hr>
@@ -49,12 +49,12 @@ export function Education() {
 
           <div class="card-header" align="left">
             <p class="text-light fs-5">
-              <b>Computer Science</b>
+              <b>BCA </b>
             </p>
             <p class="text-secondary text">
               <b>
                 Mangalore University / 2019 - 2022 <br />
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo repudiandae.
+                Dr. B B Hegde First Grade College Kundapura.
               </b>
             </p>
           </div>

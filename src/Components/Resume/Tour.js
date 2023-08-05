@@ -6,19 +6,16 @@ export function Tour() {
       <div class="col-md-1"></div>
       <div class="col-md-5 mt-5" align="left">
         <p class="fs-1 text-light">
-          <b>Take a tour of my office</b>
+          <b>Take a tour of Ethnus</b>
         </p>
         <p class="text-secondary">
           <b>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia cum quasi assumenda culpa praesentium
-            consectetur voluptatibus expedita. Voluptatem tempore, aspernatur rem facilis, distinctio nemo! Odio velit,
-            nemo dolorem voluptas!
+            Ethnus provides Good proffesional teaching of soft spoken skills and good place for training .Ethnus is one of the best platform and a training centre to learn, grow knowledge and enhance our skills. It helps the students to get jobs in various companies which include MNC's as well. The whole Ethnus team are much supportive throughout the training till we get placed.
           </b>
         </p>
         <p class="text-secondary">
           <b>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium qui aspernatur unde mollitia, in
-            laborum.
+          The entire training sessions were much interesting, helpful, effective and easily understandable.
           </b>
         </p>
       </div>

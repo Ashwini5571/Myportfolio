@@ -2,10 +2,8 @@ import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './about.css';
 import { Nav } from '../Home/NavHome';
 import {FaLinkedin} from 'react-icons/fa';
-import {FaTwitterSquare } from 'react-icons/fa';
-import {FaInstagram } from 'react-icons/fa';
 import {FaGithub} from 'react-icons/fa';
-import {FaFacebookSquare} from 'react-icons/fa';
+import {MdEmail} from 'react-icons/md';
 
 
 
@@ -22,14 +20,14 @@ export function Aboutme(){
                     <img src={ashwini} height="500px" width="400px"/>
                 </div>
                 <div class="col-md-8" align="left">
-                    <h4 class="text-success iam">who am i?</h4>
-                    <p class="text-white fs-3"><b>I'm  Ashwini R H, a visual UX/UI Designer and<br/> Web Developer</b></p>
-                    <p class=" p3">I am a freelancer based in the United Kingdom and i have been building noteworthy UX/UI designs and websites for years, which comply with the latest design trends. I help convert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster.</p>
+                    <h4 class="text-success iam">Who am i?</h4>
+                    <p class="text-white fs-3"><b>I'm  Ashwini R H, I am ReactJs Developer<br/> </b></p>
+                    <p class=" p3">I am frontend reactjs developer. I am create a attractive web pages. And i am done <br/>three Simple projects based on HTML,CSS,Bootstrap, Javascript, and ReactJs.  </p>
                     <hr class="text-white"/>
                     <div class="row ">
                         <div class="col-md-4 mt-3 text-light">
                             <p>Name:  <span class="text-secondary"><b>Ashwini</b></span> </p>
-                            <p>Age: <span class="text-secondary"><b>22</b></span></p>
+                            {/* <p>Age: <span class="text-secondary"><b>22</b></span></p> */}
                         </div>
                         <div class="col-md-5 mt-3 text-light">
                             <p>Email: <spn class="text-success"><b>ashwinirkharvi778@gmail.com</b></spn></p>
@@ -40,11 +38,11 @@ export function Aboutme(){
                             <button type="button" class="btn btn-success btn-lg rounded-5" >Download CV</button>
                             <span className='mx-4 text-secondary' style={{whiteSpace:"pre",textDecorationLine:"line-through"}}>                </span>
                             
-                            <FaTwitterSquare class="logo text-light"></FaTwitterSquare>
-                            <FaInstagram class="logo text-light"></FaInstagram>
+                        
+                            <MdEmail className="logo1 text-light"></MdEmail>
                             <FaLinkedin className="logo text-light"></FaLinkedin> 
                             <FaGithub className="logo text-light"></FaGithub>
-                            <FaFacebookSquare className='logo text-light'></FaFacebookSquare>
+                            
                             
                             </div>
                         </div>
