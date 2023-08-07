@@ -11,14 +11,14 @@ export function Myservice(){
             <p class="P1 text-secondary"><b>Services i offer to my clients</b></p>
             <p class="P2 text-light"><b>My Service</b></p><br/><br/>
            
-            <div class="row mt-5" align="left">
+            <div class="row mt-6" align="left">
                 <div class="col-md-1"></div>
                 <div class="col-md-3">
                 
                     <div class="card-body C1" >
                     <FaReact class="Icon1" ></FaReact>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Client side</b></p>
-                    <p class="card-text text-light" align="left"><b class="fs-5">ReactJs </b>is open source javascript framework. It's used for building interactive user interfaces and web application.</p>
+                    <p class="card-text text-light" align="left"><b >ReactJs </b>is open source javascript framework. It's used for building interactive user interfaces and web application.</p>
                     </div>
                 </div> 
 
@@ -28,7 +28,7 @@ export function Myservice(){
                     <div class="card-body C1">
                     <SiExpress class="Icon1"></SiExpress>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Server Side</b></p>
-                    <p class="card-text text-light" align="left"><b class="fs-5">ExpressJs </b> is a node js web application framework that provides broad features for building web and mobile applications. </p>
+                    <p class="card-text text-light" align="left"><b>ExpressJs </b> is a node js web application framework that provides broad features for building web and mobile applications. </p>
                     </div>
                 </div>
 
@@ -38,7 +38,7 @@ export function Myservice(){
                     <div class="card-body C1">
                     <SiMongodb class="Icon1"></SiMongodb>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>MongoDB</b></p>
-                    <p class="card-text text-light" align="left"><b class="fs-5">MongoDB </b>is a non-relational document database that provides support for JSON-like storage.  </p>
+                    <p class="card-text text-light" align="left"><b >MongoDB </b>is a non-relational document database that provides support for JSON-like storage.  </p>
                     </div><br/><br/>
                 </div>
                 
@@ -49,7 +49,7 @@ export function Myservice(){
                     <div class="card-body C1">
                    <FaBootstrap class="Icon1"></FaBootstrap>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Responsive</b></p>
-                    <p class="card-text text-light" align="left"><b class="fs-5">Bootstrap</b> is a free and open source CSS framework directed at responsive, mobile-first front-end <br/>web development. </p>
+                    <p class="card-text text-light" align="left"><b>Bootstrap</b> is a free and open source CSS framework directed at responsive, mobile-first front-end <br/>web development. </p>
                     </div>
                     </div>
 
@@ -59,7 +59,7 @@ export function Myservice(){
                     <div class="card-body C1 ">
                     <DiJavascript1 class="Icon1"></DiJavascript1>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Javascript</b></p>
-                    <p class="card-text text-light" align="left"><b class="fs-6">JavaScript </b>is powerful programming language that can add interactivity <br/>to a website and it is scripting language. </p>
+                    <p class="card-text text-light" align="left"><b>JavaScript </b>is powerful programming language that can add interactivity <br/>to a website and it is scripting language. </p>
                     </div>
                 </div>
 

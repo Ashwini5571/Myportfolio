@@ -22,8 +22,8 @@ export function Myblog(){
               
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light blog "><b>Simple Calculator</b></p>
-                    <p class="text-light text">This is React Project <br/> In this one of the simple react project. </p>
+                    <p  class="text-light blog "><b class="fs-3">Simple Calculator</b></p>
+                    {/* <p class="text-light text">This is React Project <br/> In this one of the simple react project. </p> */}
                     
                 </div>
 
@@ -34,8 +34,8 @@ export function Myblog(){
                 <img src={Color} height="200px" width="300px"  />
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light blog "><b>Color Picker</b></p>
-                    <p class="text-light text">This is Simple Reactjs project</p>
+                    <p  class="text-light blog "><b class="fs-3">Color Picker</b></p>
+                    {/* <p class="text-light text">This is Simple Reactjs project</p> */}
                 </div>
 
             </div>
@@ -46,50 +46,12 @@ export function Myblog(){
                 <img src={Table} height="200px" width="300px"  />
                 </div><br/>
                 <div class="card-body" align="left">
-                    <p  class="text-light blog"><b>Student Form</b></p>
-                    <p class="text-light text">It is one of the NodeJs project. <br/>It can store the Student information. database also used</p>
+                    <p  class="text-light blog"><b class="fs-3">Student Form</b></p>
+                    {/* <p class="text-light text">It is one of the NodeJs project. <br/>It can store the Student information. database also used</p> */}
                 </div>
 
             </div>
              </div>
-
-
-            {/* <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-                <div class="card-header">
-                <img src={Perform} height="200px" width="300px"  />
-                </div><br/>
-                <div class="card-body" align="left">
-                    <p  class="text-light blog"><b>How to improve work performance</b></p>
-                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo<br/> quam, eum alias id, repellendus magni, quas.</p>
-                </div>
-
-            </div>
-
-            <div class="col-md-3">
-                <div class="card-header">
-                <img src={work} height="200px" width="300px"  />
-                </div><br/>
-                <div class="card-body" align="left">
-                    <p  class="text-light blog "><b>How to work from home</b></p>
-                    <p class="text-secondary text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo <br/>quam, eum alias id, repellendus magni, quas.</p>
-                </div>
-
-            </div>
-
-
-            <div class="col-md-3 ">
-                <div class="card-header">
-                <img src={Business} height="200px" width="300px"  />
-                </div><br/>
-                <div class="card-body" align="left">
-                    <p  class="text-light blog"><b>How to enjoy your business trip</b></p>
-                    <p class="text-secondary text text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo <br/>quam, eum alias id, repellendus magni, quas.</p>
-                </div>
-
-            </div> */}
-         {/* </div> */}
-        </div>
+         </div>
     )
 }
