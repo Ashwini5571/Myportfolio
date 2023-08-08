@@ -11,7 +11,7 @@ import { Contact1 } from './Components/Contact/Contact1';
 
 function App() {
   return (
-    <div>
+    <div>git init
       <BrowserRouter>
       <Routes>
         <Route path="Myportfolio/" index element={<Homepage/>}></Route>

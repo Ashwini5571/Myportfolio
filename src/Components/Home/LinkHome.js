@@ -11,10 +11,7 @@ render(){
         <FaLinkedin className='F1'></FaLinkedin> 
         <MdEmail className='F2'></MdEmail>
         <FaGithub className="F3"></FaGithub>
-
-       
-
-        </div>
+     </div>
     );
 }
 }
