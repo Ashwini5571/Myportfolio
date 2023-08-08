@@ -64,13 +64,14 @@
 
 /* name */
 
-.name2{
+.name{
     position:absolute;
     top:30%;
     color: white;
     right: 40%;
     font-size: 60px;
-    background:1px solid red;
+    background: transparent;
+
 }
 .name1{
     position:absolute;

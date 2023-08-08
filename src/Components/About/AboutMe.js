@@ -14,7 +14,7 @@ export function Aboutme(){
     return(
         <div>
             <Nav />
-            <p class="text-light mt-2 text-center" >Get to me Know</p>
+            <p class="text-light mt-5 text-center" >Get to me Know</p>
             <p class="p1 text-center" ><b>About me</b></p>
             <div class="row mt-5">
                 <div class="col-md-4">

@@ -12,7 +12,7 @@ export function Myblog(){
     return(
         <div>
             <Nav />
-            <p class="text-secondary mt-3 text-center"><b>Check out my latest protect posts</b></p>
+            <p class="text-light mt-5 text-center">Check out my latest protect posts</p>
             <p class="p1 text-center"><b>My Project</b></p><br/><br/>
             <div class="row">
             <div class="col-md-1"></div>
