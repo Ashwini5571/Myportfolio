@@ -7,8 +7,8 @@ import {FaBootstrap} from 'react-icons/fa';
 import {SiMongodb} from 'react-icons/si';
 export function Myservice(){
     return(
-        <div class="T1">
-            <p class="P1 text-secondary"><b>Services i offer to my clients</b></p>
+        <div >
+            <p class="P1 mt-4 text-light">Services i offer to my clients</p>
             <p class="P2 text-light"><b>My Service</b></p><br/><br/>
            
             <div class="row mt-6" align="left">

@@ -4,21 +4,25 @@
 
 /* Education */
 
-.p1{
-    font-size: 50px;
+.resume{
+    font-size: 60px;
     color: white;
 }
 .p3{
     color: rgb(161, 159, 159);
 }
 h2{
-    margin-right: 480px;
+    margin-right: 420px;
+    font-size: 40px;
 }
 .bord{
     border-left: 2px solid rgb(31, 138, 31);
 }
 p{
-    margin-left: 40px;
+    margin-left: 10px;
+}
+.text{
+    margin-left: 30px;
 }
 
 

@@ -2,11 +2,11 @@ import React from "react";
 
 export function Skill() {
   return (
-    <div class="T1">
+    <div >
       <div class="row">
         <div class="col-md-1"></div>
         <div class="col-md-8 text-light" align-left>
-          <h4 class="text-secondary">My level of knowledge in some tools</h4>
+          <p class="text-light mt-1">My level of knowledge in some tools</p>
           <h1 className=" pb=3">
             <b>My Skills</b>
           </h1>

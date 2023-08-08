@@ -40,7 +40,7 @@ export function Contact(){
                         <h6 class="text-light"><b>Location</b></h6>
                         <h6 class="text-secondary">Bangalore, India</h6><br/>
                         <h6 class="text-light"><b>Call Me</b></h6>
-                        <h6 class="text-secondary">+44 1632 967704</h6><br/>
+                        <h6 class="text-secondary">9632625571</h6><br/>
                         <h6 class="text-light"><b>Email Me</b></h6>
                         <h6 class="text-secondary">ashwinirkharvi778@gmail.com</h6><br/>
 

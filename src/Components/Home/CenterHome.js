@@ -31,7 +31,7 @@ export class Home1 extends Component{
     render(){
         return(
             <div className="img">
-                 <img src={background} height={"650px"} width={"1280px"}/>
+                 <img src={background} height={"680px"} width={"100%"}/>
                 <h1 className='name2'><b>Ashwini R H</b></h1>
                 <h2 className='name1'> I'm a {this.state.name}</h2>
 

@@ -7,7 +7,7 @@ export class Nav extends Component{
         return(
        
            <div id="D1">
-            <ul class="nav p-3 container-fixed" >
+            <ul class="nav p-3 fixed-top" >
             <li class="nav-item">
                  <a  href="/Myportfolio" class="nav-link text-warning">  <FaCentos class="f1"></FaCentos> <b>Ashwini</b> </a> 
                 

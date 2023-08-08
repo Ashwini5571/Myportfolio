@@ -18,12 +18,12 @@ export function Myblog(){
             <div class="col-md-1"></div>
             <div class="col-md-3">
                 <div class="card-header">
+                    <a href='https://ashwini5571.github.io/Calculator/'>
                 <img src={calculator} height="200px" width="300px" class="img"/>
-              
+                </a>
                 </div><br/>
                 <div class="card-body" align="left">
                     <p  class="text-light blog "><b class="fs-3">Simple Calculator</b></p>
-                    {/* <p class="text-light text">This is React Project <br/> In this one of the simple react project. </p> */}
                     
                 </div>
 
@@ -31,7 +31,9 @@ export function Myblog(){
 
             <div class="col-md-3">
                 <div class="card-header">
+                    <a href='https://ashwini5571.github.io/Color-Picker/'>
                 <img src={Color} height="200px" width="300px"  />
+                </a>
                 </div><br/>
                 <div class="card-body" align="left">
                     <p  class="text-light blog "><b class="fs-3">Color Picker</b></p>

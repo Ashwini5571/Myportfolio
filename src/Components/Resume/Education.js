@@ -5,10 +5,10 @@ import "./resume.css";
 export function Education() {
   return (
     <div>
-      <p class="text-secondary mt-3 text-center">
-        <b>Check out my Resume</b>
+      <p class="text-light mt-3 text-center">
+        Check out my Resume
       </p>
-      <p class="p1 text-center">
+      <p class="text-center resume" >
         <b>Resume</b>
       </p>
       <br />
@@ -20,11 +20,11 @@ export function Education() {
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-4 bord">
-          <div class="card-header" align="left">
-            <p class="text-light fs-5 ">
+          <div class="card-header" >
+            <p class="text-light fs-5 resume ">
               <b>Secondary Education</b>
             </p>
-            <p class="text-secondary text">
+            <p class="text-secondary text fs-6">
               <b>
                 State Board / 2014 - 2016 <br />
                Government pre-university college Uppunda
@@ -33,11 +33,11 @@ export function Education() {
             <hr class="text-white"></hr>
           </div>
 
-          <div class="card-header" align="left">
-            <p class="text-light fs-5">
+          <div class="card-header " >
+            <p class="text-light fs-5 resume">
               <b>PCMCs</b>
             </p>
-            <p class="text-secondary text">
+            <p class="text-secondary text fs-6">
               <b>
                 {" "}
                 State Board / 2016 - 2018 <br />
@@ -47,11 +47,11 @@ export function Education() {
             <hr class="text-white"></hr>
           </div>
 
-          <div class="card-header" align="left">
-            <p class="text-light fs-5">
+          <div class="card-header" >
+            <p class="text-light fs-5 resume">
               <b>BCA </b>
             </p>
-            <p class="text-secondary text">
+            <p class="text-secondary text fs-6">
               <b>
                 Mangalore University / 2019 - 2022 <br />
                 Dr. B B Hegde First Grade College Kundapura.
