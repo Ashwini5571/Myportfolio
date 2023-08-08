@@ -2,7 +2,7 @@ import React from "react";
 import Tour1 from "../Vedio/video.mp4";
 export function Tour() {
   return (
-    <div class="row mt-5">
+    <div class="row mt-2">
       <div class="col-md-1"></div>
       <div class="col-md-5 mt-5" align="left">
         <p class="fs-1 text-light">
