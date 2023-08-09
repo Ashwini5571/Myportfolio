@@ -38,7 +38,7 @@ export function Myservice(){
                     <div class="card-body C1">
                     <SiMongodb class="Icon1"></SiMongodb>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>MongoDB</b></p>
-                    <p class="card-text text-light" align="left"><b >MongoDB </b>is a non-relational document database that provides support for JSON-like storage.  </p>
+                    <p class="card-text text-light" align="left"><b >MongoDB </b>is a non-relational document database that provides support for <br/>JSON-like storage.  </p>
                     </div><br/><br/>
                 </div>
                 
@@ -49,7 +49,7 @@ export function Myservice(){
                     <div class="card-body C1">
                    <FaBootstrap class="Icon1"></FaBootstrap>
                     <p class="card-text text-light fs-3 mt-4" align="left"><b>Responsive</b></p>
-                    <p class="card-text text-light" align="left"><b>Bootstrap</b> is a free and open source CSS framework directed at responsive, mobile-first front-end <br/>web development. </p>
+                    <p class="card-text text-light" align="left"><b>Bootstrap</b> is a free and open source CSS framework directed at responsive, mobile-first front-end web development. </p>
                     </div>
                     </div>
 
