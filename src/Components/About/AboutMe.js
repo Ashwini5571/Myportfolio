@@ -4,7 +4,7 @@ import { Nav } from '../Home/NavHome';
 import {FaLinkedin} from 'react-icons/fa';
 import {FaGithub} from 'react-icons/fa';
 import {MdEmail} from 'react-icons/md';
-import Resume from '../Image/Ashwini Resume (1).pdf';
+import Resume from '../Image/Ashwini Resume.pdf';
 
 
 
