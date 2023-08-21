@@ -9,7 +9,7 @@ import './contact.css'
 export function Contact(){
     return(
         <div>
-            <p class="text-secondary text-center mt-5"><b>Feel free to contact me anytime</b></p>
+            <p class="text-light text-center Touch ">Feel free to contact me anytime</p>
             <p class="p1 text-center"><b>Get in Touch</b></p><br/><br/>
             <div class="row mt-5" >
                 <div class="col-md-1"></div>

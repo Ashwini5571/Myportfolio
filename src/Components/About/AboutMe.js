@@ -14,11 +14,11 @@ export function Aboutme(){
     return(
         <div>
             <Nav />
-            <p class="text-light mt-5 text-center" >Get to me Know</p>
+            <p class="text-light  Get text-center" >Get to me Know</p>
             <p class="p1 text-center" ><b>About me</b></p>
             <div class="row mt-5">
                 <div class="col-md-4">
-                    <img src={ashwini} height="400px" width="400px"/>
+                    <img src={ashwini} height="500px" width="300px"/>
                 </div>
                 <div class="col-md-8" align="left">
                     <h4 class="text-success iam"><b>Who am i?</b></h4>

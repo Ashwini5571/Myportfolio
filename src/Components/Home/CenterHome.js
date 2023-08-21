@@ -2,10 +2,12 @@ import { Component } from "react";
 import "./home.css";
 import background from "../Image/background.jpg";
 import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 export class Home1 extends Component {
   constructor(props) {
     super(props);
     this.state = { Name: "", i: 0 };
+    
   }
   componentDidMount() {
     this.makeTimer();
@@ -32,6 +34,7 @@ export class Home1 extends Component {
         <img src={background} height={"680px"} width={"100%"} />
         <p className="name">
           <b>Ashwini R H</b>
+          
         </p>
         <h2 className="name1"> I'm a {this.state.name}</h2>
       </div>

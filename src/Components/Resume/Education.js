@@ -5,7 +5,7 @@ import "./resume.css";
 export function Education() {
   return (
     <div>
-      <p class="text-light mt-5 text-center">
+      <p class="text-light check text-center">
         Check out my Resume
       </p>
       <p class="text-center resume" >
